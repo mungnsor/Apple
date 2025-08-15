@@ -312,6 +312,7 @@
   .scrollphoto {
     width: auto;
     height: 495px;
+    overflow-x: scroll;
   }
   .scroll {
     width: 274px;
